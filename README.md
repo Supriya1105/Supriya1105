@@ -1,5 +1,5 @@
 ### Hi there 👋, Supriya Shally
-#### Front-End Developer
+#### Website Developer
 
 I'm Supriya a B-tech undergrad. and I am intrested in Front-end website development. and I also enjoy learning languages, I am good at C++, Python and Java. I also enjoy wireframing, UI, UX and design in general. and I like learning about ML and Blockchain. You can check out my LinkedIn at linkedin.com/in/supriyashally .
 
