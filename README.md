@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Supriya.
 #### Website Developer
-![Website Developer](https://twitter.com/designsbyshally/header_photo)
+![Website Developer](https://pbs.twimg.com/profile_banners/1406748912120074242/1625961664/1080x360)
 
 I'm Supriya a B-tech undergrad. and I am intrested in Front-end website development. and I also enjoy learning languages, I am good at C++, Python and Java. I also enjoy wireframing, UI, UX and design in general. and I like learning about ML and Blockchain.
 
