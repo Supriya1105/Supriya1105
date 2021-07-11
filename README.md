@@ -2,7 +2,7 @@
 #### Website Developer
 ![Website Developer](https://pbs.twimg.com/profile_banners/1406748912120074242/1625961664/1080x360)
 
-I'm Supriya a B-tech undergrad. and I am intrested in Front-end website development. and I also enjoy learning languages, I am good at C++, Python and Java. I also enjoy wireframing, UI, UX and design in general. and I like learning about ML and Blockchain.
+I'm Supriya a B-tech undergrad. and I am intrested in Website development & Machine Learning and I also enjoy learning languages, I am good at C++, Python and Java. I also enjoy wireframing, UI, UX and design in general. and I like learning about ML and Blockchain.
 
 Skills: Python/C++/Java/REACT / JS / HTML / CSS
 
