@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya1105&label=Profile%20views&color=0e75b6&style=flat" alt="supriya1105" /> </p>
 
-- Workign as A data engineer **@Bechtel**
+- Working as A data engineer **@Bechtel**
 
 - 🌱 I’m currently learning **ReactJs & Typescript**
 
